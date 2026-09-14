@@ -2,4 +2,5 @@ Learning git
 - commit
 - staging
 Merge Conflict Testing
-Hi from local repo
+ HEAD
+hello from both my local and remote repo
